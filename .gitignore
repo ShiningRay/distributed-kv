@@ -1,0 +1,48 @@
+*.gem
+*.rbc
+/.config
+/coverage/
+/InstalledFiles
+/pkg/
+/spec/reports/
+/spec/examples.txt
+/test/tmp/
+/test/version_tmp/
+/tmp/
+/log/
+
+# 依赖管理
+/.bundle/
+/vendor/bundle
+/lib/bundler/man/
+
+# 环境变量和配置文件
+.env
+.env.*
+config/master.key
+config/credentials.yml.enc
+
+# RVM and rbenv
+.rvmrc
+.rbenv-vars
+
+# IDE 和编辑器
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS 生成的文件
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# 项目特定文件
+/data/
+*.log
+*.pid
